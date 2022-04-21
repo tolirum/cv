@@ -161,6 +161,7 @@ body {
 .contacts-title,
 .skills-title {
   color: #ffffff;
+  /* color: #ffffff; */
   font-family: Montserrat;
   font-size: 22px;
   font-weight: 700;
